@@ -6,7 +6,6 @@ import numpy as np
 from datetime import datetime
 from prophet import Prophet
 from sklearn.metrics import mean_absolute_error, mean_squared_error
-from prophet import Prophet
 from translations import bilanco_translations, gelir_tablosu_translations, nakit_akisi_translations
 
 

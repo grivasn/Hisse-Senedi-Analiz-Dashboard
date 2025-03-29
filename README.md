@@ -66,14 +66,6 @@ Her grafik, kullanıcıya anlamlı bilgiler sunmak üzere açıklamalı ve görs
 
 Gösterge açıklamaları, yatırım yapacak kişilerin neye baktıklarını daha iyi anlamaları için özel olarak eklenmiştir.
 
-🧠 Öğrenenler İçin Faydası
-Teknik analiz nedir?
-
-RSI, MACD, Bollinger Bantları nasıl yorumlanır?
-
-Prophet modeli nasıl uygulanır?
-
-Python ile finansal dashboard nasıl yapılır?
 
 📬 Geri Bildirim
 Sorularınız veya geliştirme önerileriniz varsa lütfen iletişime geçin. Her türlü katkıya açığız.

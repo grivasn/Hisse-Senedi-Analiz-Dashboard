@@ -4,3 +4,4 @@ numpy
 yfinance
 plotly
 prophet
+scikit-learn
